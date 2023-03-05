@@ -1,0 +1,28 @@
+
+  /* testimonial css */
+  .testemonial{
+    margin-top:30px;
+  }
+  h1{
+    font-size:30px;
+    margin-bottom: 30px;
+    font-family: 'Exo 2', sans-serif;
+  }
+  .card{
+    
+    border:none;
+}
+
+.user-content p{
+    margin-top:5px;
+    font-size:12px;
+}
+
+.ratings i{
+    color:blue;
+}
+ /* testimonial css */
+ .testemonial{
+  margin-top: 10px;
+ }
+ 
